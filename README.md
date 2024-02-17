@@ -2,7 +2,8 @@
 
 Acest cod implementează un joc simplu de zaruri pentru 2-4 jucători. Funcționalitățile sale:
 
-Funcția roll(): Simulează aruncarea unui zar, generând un număr aleatoriu între 1 și 6.
+Funcția roll():
+--> Simulează aruncarea unui zar, generând un număr aleatoriu între 1 și 6.
 
 Inițierea jocului: 
 --> Utilizatorul este întrebat să introducă numărul de jucători (între 2 și 4).
